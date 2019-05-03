@@ -1,0 +1,8 @@
+for item in range(5):#(till)
+    print(item)
+print('###############')
+for item in range(5, 10):#(Start,End)
+    print(item)
+print('###############')
+for item in range(5, 10, 2):#(Start,End,step)
+    print(item)

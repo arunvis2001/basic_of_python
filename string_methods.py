@@ -1,0 +1,10 @@
+msg = "Python CourSe For Begginer's"
+print(msg.lower())
+print(msg.upper())
+print(msg.capitalize())
+print(msg.find('o'))
+print(msg.title())
+print(len(msg))
+print(msg.isalnum())
+print(msg.index('e'))
+print('For' in msg)
